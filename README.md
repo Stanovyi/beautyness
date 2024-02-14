@@ -1,1 +1,1 @@
-# Beautyness project
+# beautyness project
